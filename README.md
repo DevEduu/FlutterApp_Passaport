@@ -1,16 +1,16 @@
-# passagem_aeria
+# Projeto Passapor
 
-A new Flutter project.
+Projeto estudo de widget
+![App Tela](image/app_tela_md.png)
 
-## Getting Started
+## Como contribuir
+Se você estiver interessado em contribuir com o projeto, por favor siga as etapas abaixo:
 
-This project is a starting point for a Flutter application.
+## Dê um fork no repositório.
+Crie um branch com o nome da sua nova funcionalidade ou correção.
+1. Faça suas alterações e adicione documentação se necessário.
+2. Teste suas alterações para garantir que elas não quebram outras partes do aplicativo.
+3. Envie um pull request e aguarde revisão.
+Licença
+4. Este projeto está licenciado sob a licença MIT - veja o arquivo LICENSE.md para detalhes.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
